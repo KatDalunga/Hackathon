@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-20T18:59:04 IST" name="Suite" finished-at="2024-04-20T19:04:21 IST" duration-ms="317431">
+    <groups>
+      <group name="regression">
+        <method signature="TestCaseHealth.healthInsuranceMenuItems()[pri:0, instance:testScenario.TestCaseHealth@72d1ad2e]" name="healthInsuranceMenuItems" class="testScenario.TestCaseHealth"/>
+        <method signature="TestCaseTravel.clickTravelInsurance()[pri:0, instance:testScenario.TestCaseTravel@515aebb0]" name="clickTravelInsurance" class="testScenario.TestCaseTravel"/>
+        <method signature="TestCaseCar.sel_NewCar_forInsurance()[pri:1, instance:testScenario.TestCaseCar@595b007d]" name="sel_NewCar_forInsurance" class="testScenario.TestCaseCar"/>
+        <method signature="TestCaseTravel.clickStartDate()[pri:1, instance:testScenario.TestCaseTravel@515aebb0]" name="clickStartDate" class="testScenario.TestCaseTravel"/>
+        <method signature="TestCaseCar.sendData()[pri:2, instance:testScenario.TestCaseCar@595b007d]" name="sendData" class="testScenario.TestCaseCar"/>
+        <method signature="TestCaseTravel.selectAges()[pri:2, instance:testScenario.TestCaseTravel@515aebb0]" name="selectAges" class="testScenario.TestCaseTravel"/>
+        <method signature="TestCaseCar.email_Capture_ErrorMessage()[pri:3, instance:testScenario.TestCaseCar@595b007d]" name="email_Capture_ErrorMessage" class="testScenario.TestCaseCar"/>
+        <method signature="TestCaseTravel.enterContactDetais()[pri:3, instance:testScenario.TestCaseTravel@515aebb0]" name="enterContactDetais" class="testScenario.TestCaseTravel"/>
+        <method signature="TestCaseTravel.enterStudentPlans()[pri:4, instance:testScenario.TestCaseTravel@515aebb0]" name="enterStudentPlans" class="testScenario.TestCaseTravel"/>
+        <method signature="TestCaseTravel.selectSorts()[pri:5, instance:testScenario.TestCaseTravel@515aebb0]" name="selectSorts" class="testScenario.TestCaseTravel"/>
+        <method signature="TestCaseTravel.insurerNameAndPlanPrice()[pri:6, instance:testScenario.TestCaseTravel@515aebb0]" name="insurerNameAndPlanPrice" class="testScenario.TestCaseTravel"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="TestCaseHealth.healthInsuranceMenuItems()[pri:0, instance:testScenario.TestCaseHealth@72d1ad2e]" name="healthInsuranceMenuItems" class="testScenario.TestCaseHealth"/>
+        <method signature="TestCaseTravel.clickTravelInsurance()[pri:0, instance:testScenario.TestCaseTravel@515aebb0]" name="clickTravelInsurance" class="testScenario.TestCaseTravel"/>
+        <method signature="TestCaseCar.sel_NewCar_forInsurance()[pri:1, instance:testScenario.TestCaseCar@595b007d]" name="sel_NewCar_forInsurance" class="testScenario.TestCaseCar"/>
+        <method signature="TestCaseTravel.clickStartDate()[pri:1, instance:testScenario.TestCaseTravel@515aebb0]" name="clickStartDate" class="testScenario.TestCaseTravel"/>
+        <method signature="TestCaseTravel.selectAges()[pri:2, instance:testScenario.TestCaseTravel@515aebb0]" name="selectAges" class="testScenario.TestCaseTravel"/>
+        <method signature="TestCaseTravel.enterContactDetais()[pri:3, instance:testScenario.TestCaseTravel@515aebb0]" name="enterContactDetais" class="testScenario.TestCaseTravel"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2024-04-20T18:59:04 IST" name="Test Search in Chrome" finished-at="2024-04-20T19:04:21 IST" duration-ms="317431">
+      <class name="testScenario.TestCaseCar">
+        <test-method is-config="true" signature="driverInstantiate(java.lang.String)[pri:0, instance:testScenario.TestCaseCar@595b007d]" started-at="2024-04-20T19:01:28 IST" name="driverInstantiate" finished-at="2024-04-20T19:02:09 IST" duration-ms="41489" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverInstantiate -->
+        <test-method signature="sel_NewCar_forInsurance()[pri:1, instance:testScenario.TestCaseCar@595b007d]" started-at="2024-04-20T19:02:09 IST" name="sel_NewCar_forInsurance" finished-at="2024-04-20T19:02:26 IST" duration-ms="17360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sel_NewCar_forInsurance -->
+        <test-method signature="sendData()[pri:2, instance:testScenario.TestCaseCar@595b007d]" started-at="2024-04-20T19:02:27 IST" name="sendData" finished-at="2024-04-20T19:02:27 IST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendData -->
+        <test-method signature="email_Capture_ErrorMessage()[pri:3, instance:testScenario.TestCaseCar@595b007d]" started-at="2024-04-20T19:02:27 IST" name="email_Capture_ErrorMessage" finished-at="2024-04-20T19:03:29 IST" duration-ms="61890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- email_Capture_ErrorMessage -->
+        <test-method is-config="true" signature="driverTearDown()[pri:0, instance:testScenario.TestCaseCar@595b007d]" started-at="2024-04-20T19:03:29 IST" name="driverTearDown" finished-at="2024-04-20T19:03:33 IST" duration-ms="3939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverTearDown -->
+      </class> <!-- testScenario.TestCaseCar -->
+      <class name="testScenario.TestCaseHealth">
+        <test-method is-config="true" signature="driverInstantiate(java.lang.String)[pri:0, instance:testScenario.TestCaseHealth@72d1ad2e]" started-at="2024-04-20T19:03:33 IST" name="driverInstantiate" finished-at="2024-04-20T19:04:14 IST" duration-ms="40994" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverInstantiate -->
+        <test-method signature="healthInsuranceMenuItems()[pri:0, instance:testScenario.TestCaseHealth@72d1ad2e]" started-at="2024-04-20T19:04:14 IST" name="healthInsuranceMenuItems" finished-at="2024-04-20T19:04:18 IST" duration-ms="4281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- healthInsuranceMenuItems -->
+        <test-method is-config="true" signature="driverTearDown()[pri:0, instance:testScenario.TestCaseHealth@72d1ad2e]" started-at="2024-04-20T19:04:19 IST" name="driverTearDown" finished-at="2024-04-20T19:04:21 IST" duration-ms="2569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverTearDown -->
+      </class> <!-- testScenario.TestCaseHealth -->
+      <class name="testScenario.TestCaseTravel">
+        <test-method is-config="true" signature="driverInstantiate(java.lang.String)[pri:0, instance:testScenario.TestCaseTravel@515aebb0]" started-at="2024-04-20T18:59:04 IST" name="driverInstantiate" finished-at="2024-04-20T18:59:51 IST" duration-ms="46565" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverInstantiate -->
+        <test-method signature="clickTravelInsurance()[pri:0, instance:testScenario.TestCaseTravel@515aebb0]" started-at="2024-04-20T18:59:51 IST" name="clickTravelInsurance" finished-at="2024-04-20T19:00:08 IST" duration-ms="17272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickTravelInsurance -->
+        <test-method signature="clickStartDate()[pri:1, instance:testScenario.TestCaseTravel@515aebb0]" started-at="2024-04-20T19:00:08 IST" name="clickStartDate" finished-at="2024-04-20T19:00:30 IST" duration-ms="21368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickStartDate -->
+        <test-method signature="selectAges()[pri:2, instance:testScenario.TestCaseTravel@515aebb0]" started-at="2024-04-20T19:00:30 IST" name="selectAges" finished-at="2024-04-20T19:00:50 IST" duration-ms="20417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectAges -->
+        <test-method signature="enterContactDetais()[pri:3, instance:testScenario.TestCaseTravel@515aebb0]" started-at="2024-04-20T19:00:51 IST" name="enterContactDetais" finished-at="2024-04-20T19:01:01 IST" duration-ms="10163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterContactDetais -->
+        <test-method signature="enterStudentPlans()[pri:4, instance:testScenario.TestCaseTravel@515aebb0]" started-at="2024-04-20T19:01:01 IST" name="enterStudentPlans" finished-at="2024-04-20T19:01:13 IST" duration-ms="12238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterStudentPlans -->
+        <test-method signature="selectSorts()[pri:5, instance:testScenario.TestCaseTravel@515aebb0]" started-at="2024-04-20T19:01:14 IST" name="selectSorts" finished-at="2024-04-20T19:01:20 IST" duration-ms="6743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectSorts -->
+        <test-method signature="insurerNameAndPlanPrice()[pri:6, instance:testScenario.TestCaseTravel@515aebb0]" started-at="2024-04-20T19:01:21 IST" name="insurerNameAndPlanPrice" finished-at="2024-04-20T19:01:23 IST" duration-ms="2713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insurerNameAndPlanPrice -->
+        <test-method is-config="true" signature="driverTearDown()[pri:0, instance:testScenario.TestCaseTravel@515aebb0]" started-at="2024-04-20T19:01:24 IST" name="driverTearDown" finished-at="2024-04-20T19:01:28 IST" duration-ms="3698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverTearDown -->
+      </class> <!-- testScenario.TestCaseTravel -->
+    </test> <!-- Test Search in Chrome -->
+  </suite> <!-- Suite -->
+</testng-results>

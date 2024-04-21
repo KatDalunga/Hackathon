@@ -1,0 +1,54 @@
+22:00:39.040 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+22:00:39.044 [main] INFO  userDefinedLibraries.LoggerClass - Opening Url in Chrome Browser
+22:00:39.045 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+22:00:47.989 [main] INFO  userDefinedLibraries.LoggerClass - Clicked on travel insurance option
+22:00:52.173 [main] INFO  userDefinedLibraries.LoggerClass - Clicked on European Countries
+22:00:54.314 [main] INFO  userDefinedLibraries.LoggerClass - Selected the Germany as a destination country 
+22:01:00.787 [main] INFO  userDefinedLibraries.LoggerClass - Clicked on Next button 
+22:01:11.809 [main] INFO  userDefinedLibraries.LoggerClass - Selected Start date from datepicker 
+22:01:17.465 [main] INFO  userDefinedLibraries.LoggerClass - Selected End date from datepicker 
+22:01:20.661 [main] INFO  userDefinedLibraries.LoggerClass - Clicked on Next button 
+22:01:24.923 [main] INFO  userDefinedLibraries.LoggerClass - Selected no of persons for Insurance plan
+22:01:31.495 [main] INFO  userDefinedLibraries.LoggerClass - Selected 1st person age
+22:01:36.168 [main] INFO  userDefinedLibraries.LoggerClass - Selected 2nd person age
+22:01:42.695 [main] INFO  userDefinedLibraries.LoggerClass - Selected Medical condition of the travellors
+22:01:47.186 [main] INFO  userDefinedLibraries.LoggerClass - Entered Mobile Number
+22:01:49.612 [main] INFO  userDefinedLibraries.LoggerClass - Clicked On ViewPlans
+22:01:55.271 [main] INFO  userDefinedLibraries.LoggerClass - Clicked On Student Plans
+22:02:02.541 [main] INFO  userDefinedLibraries.LoggerClass - Filled the Student Details
+22:02:04.962 [main] INFO  userDefinedLibraries.LoggerClass - Selcted Travel Duration
+22:02:09.596 [main] INFO  userDefinedLibraries.LoggerClass - Sorted the plans
+22:02:14.620 [main] INFO  userDefinedLibraries.LoggerClass - Printed The 3 Lowest Plans
+22:02:19.131 [main] INFO  userDefinedLibraries.LoggerClass - Closed the Browser
+22:02:19.131 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+22:02:19.132 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+22:02:19.132 [main] INFO  userDefinedLibraries.LoggerClass - Opening Url in Chrome Browser
+22:02:19.133 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+22:02:27.164 [main] INFO  userDefinedLibraries.LoggerClass - Moving to Car Insurance Option
+22:02:27.465 [main] INFO  userDefinedLibraries.LoggerClass - Clicked on Car Insurance Option
+22:02:29.737 [main] INFO  userDefinedLibraries.LoggerClass - Clicked on New Car Option 
+22:02:31.864 [main] INFO  userDefinedLibraries.LoggerClass - Selected City 
+22:02:32.951 [main] INFO  userDefinedLibraries.LoggerClass - Selected Rto
+22:02:36.030 [main] INFO  userDefinedLibraries.LoggerClass - Selected Car Brand 
+22:02:40.386 [main] INFO  userDefinedLibraries.LoggerClass - Selected Car Model 
+22:02:41.529 [main] INFO  userDefinedLibraries.LoggerClass - Selected Car Varient 
+22:02:43.861 [main] INFO  userDefinedLibraries.LoggerClass - Sent Invalid EmailId as input
+22:02:44.177 [main] INFO  userDefinedLibraries.LoggerClass - Captured Error message of Invalid Email
+22:03:49.371 [main] INFO  userDefinedLibraries.LoggerClass - Closed the Browser
+22:03:49.372 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+22:03:49.373 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+22:03:49.373 [main] INFO  userDefinedLibraries.LoggerClass - Opening Url in Chrome Browser
+22:03:49.373 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+22:03:57.992 [main] INFO  userDefinedLibraries.LoggerClass - Moving to Insurance Product Dropdown
+22:04:00.164 [main] INFO  userDefinedLibraries.LoggerClass - Printing All the Insurance in Health Insurance Menu 
+22:04:03.548 [main] INFO  userDefinedLibraries.LoggerClass - Closed the Browser
+22:04:03.548 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+22:05:33.565 [main] INFO  userDefinedLibraries.LoggerClass - Loading the config properties file
+22:05:33.585 [main] INFO  userDefinedLibraries.LoggerClass - Starting Execution in local envirnoment.......
+22:05:33.586 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+22:05:33.586 [main] INFO  userDefinedLibraries.LoggerClass - Opening Url in Chrome Browser
+22:05:33.586 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+22:05:42.262 [main] INFO  userDefinedLibraries.LoggerClass - Url Opened successfully in......
+22:05:43.120 [main] INFO  userDefinedLibraries.LoggerClass - Clicked on travel insurance option
+22:05:47.569 [main] INFO  userDefinedLibraries.LoggerClass - Clicked on European Countries
+22:05:49.666 [main] INFO  userDefinedLibraries.LoggerClass - Selected the Germany as a destination country 

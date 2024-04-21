@@ -1,0 +1,55 @@
+16:51:03.147 [main] INFO  userDefinedLibraries.LoggerClass - Selected no of persons for Insurance plan
+16:51:10.345 [main] INFO  userDefinedLibraries.LoggerClass - Selected 1st person age
+16:51:15.591 [main] INFO  userDefinedLibraries.LoggerClass - Selected 2nd person age
+16:51:22.822 [main] INFO  userDefinedLibraries.LoggerClass - Selected Medical condition of the travellors
+16:51:27.581 [main] INFO  userDefinedLibraries.LoggerClass - Entered Mobile Number
+16:51:30.468 [main] INFO  userDefinedLibraries.LoggerClass - Clicked On ViewPlans
+16:51:36.079 [main] INFO  userDefinedLibraries.LoggerClass - Clicked On Student Plans
+16:51:43.534 [main] INFO  userDefinedLibraries.LoggerClass - Filled the Student Details
+16:51:46.218 [main] INFO  userDefinedLibraries.LoggerClass - Selcted Travel Duration
+16:51:50.907 [main] INFO  userDefinedLibraries.LoggerClass - Sorted the plans
+16:51:56.605 [main] INFO  userDefinedLibraries.LoggerClass - Printed The 3 Lowest Plans
+16:51:59.452 [main] INFO  userDefinedLibraries.LoggerClass - Moving to Car Insurance Option
+16:51:59.856 [main] INFO  userDefinedLibraries.LoggerClass - Clicked on Car Insurance Option
+16:52:03.117 [main] INFO  userDefinedLibraries.LoggerClass - Clicked on New Car Option 
+16:52:06.011 [main] INFO  userDefinedLibraries.LoggerClass - Selected City 
+16:52:07.191 [main] INFO  userDefinedLibraries.LoggerClass - Selected Rto
+16:52:10.530 [main] INFO  userDefinedLibraries.LoggerClass - Selected Car Brand 
+16:52:15.061 [main] INFO  userDefinedLibraries.LoggerClass - Selected Car Model 
+16:52:16.307 [main] INFO  userDefinedLibraries.LoggerClass - Selected Car Varient 
+16:52:18.971 [main] INFO  userDefinedLibraries.LoggerClass - Sent Invalid EmailId as input
+16:52:19.396 [main] INFO  userDefinedLibraries.LoggerClass - Captured Error message of Invalid Email
+16:54:01.863 [main] INFO  userDefinedLibraries.LoggerClass - Moving to Insurance Product Dropdown
+16:54:04.334 [main] INFO  userDefinedLibraries.LoggerClass - Printing All the Insurance in Health Insurance Menu 
+16:54:11.105 [main] INFO  userDefinedLibraries.LoggerClass - Closed browser successfully
+16:54:11.105 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+18:59:05.506 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+18:59:05.510 [main] INFO  userDefinedLibraries.LoggerClass - Opening Url in Chrome Browser
+18:59:05.511 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+18:59:51.751 [main] INFO  userDefinedLibraries.LoggerClass - Clicked on travel insurance option
+18:59:55.960 [main] INFO  userDefinedLibraries.LoggerClass - Clicked on European Countries
+18:59:58.099 [main] INFO  userDefinedLibraries.LoggerClass - Selected the Germany as a destination country 
+19:00:04.659 [main] INFO  userDefinedLibraries.LoggerClass - Clicked on Next button 
+19:00:17.291 [main] INFO  userDefinedLibraries.LoggerClass - Selected Start date from datepicker 
+19:00:23.175 [main] INFO  userDefinedLibraries.LoggerClass - Selected End date from datepicker 
+19:00:26.349 [main] INFO  userDefinedLibraries.LoggerClass - Clicked on Next button 
+19:00:30.744 [main] INFO  userDefinedLibraries.LoggerClass - Selected no of persons for Insurance plan
+19:00:37.496 [main] INFO  userDefinedLibraries.LoggerClass - Selected 1st person age
+19:00:42.365 [main] INFO  userDefinedLibraries.LoggerClass - Selected 2nd person age
+19:00:48.980 [main] INFO  userDefinedLibraries.LoggerClass - Selected Medical condition of the travellors
+19:00:53.806 [main] INFO  userDefinedLibraries.LoggerClass - Entered Mobile Number
+19:00:56.356 [main] INFO  userDefinedLibraries.LoggerClass - Clicked On ViewPlans
+19:01:01.969 [main] INFO  userDefinedLibraries.LoggerClass - Clicked On Student Plans
+19:01:09.271 [main] INFO  userDefinedLibraries.LoggerClass - Filled the Student Details
+19:01:11.811 [main] INFO  userDefinedLibraries.LoggerClass - Selcted Travel Duration
+19:01:16.695 [main] INFO  userDefinedLibraries.LoggerClass - Sorted the plans
+19:01:22.437 [main] INFO  userDefinedLibraries.LoggerClass - Printed The 3 Lowest Plans
+19:01:28.039 [main] INFO  userDefinedLibraries.LoggerClass - Closed the Browser
+19:01:28.039 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+19:01:28.041 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+19:01:28.041 [main] INFO  userDefinedLibraries.LoggerClass - Opening Url in Chrome Browser
+19:01:28.041 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+19:02:09.537 [main] INFO  userDefinedLibraries.LoggerClass - Moving to Car Insurance Option
+19:02:09.866 [main] INFO  userDefinedLibraries.LoggerClass - Clicked on Car Insurance Option
+19:02:12.181 [main] INFO  userDefinedLibraries.LoggerClass - Clicked on New Car Option 
+19:02:14.947 [main] INFO  userDefinedLibraries.LoggerClass - Selected City 

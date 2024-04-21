@@ -1,0 +1,18 @@
+19:02:16.132 [main] INFO  userDefinedLibraries.LoggerClass - Selected Rto
+19:02:19.264 [main] INFO  userDefinedLibraries.LoggerClass - Selected Car Brand 
+19:02:23.705 [main] INFO  userDefinedLibraries.LoggerClass - Selected Car Model 
+19:02:24.876 [main] INFO  userDefinedLibraries.LoggerClass - Selected Car Varient 
+19:02:27.220 [main] INFO  userDefinedLibraries.LoggerClass - Sent Invalid EmailId as input
+19:02:27.664 [main] INFO  userDefinedLibraries.LoggerClass - Captured Error message of Invalid Email
+19:03:33.607 [main] INFO  userDefinedLibraries.LoggerClass - Closed the Browser
+19:03:33.608 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+19:03:33.611 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+19:03:33.611 [main] INFO  userDefinedLibraries.LoggerClass - Opening Url in Chrome Browser
+19:03:33.611 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+19:04:14.609 [main] INFO  userDefinedLibraries.LoggerClass - Moving to Insurance Product Dropdown
+19:04:16.799 [main] INFO  userDefinedLibraries.LoggerClass - Printing All the Insurance in Health Insurance Menu 
+19:04:21.706 [main] INFO  userDefinedLibraries.LoggerClass - Closed the Browser
+19:04:21.707 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+19:19:34.669 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
+19:19:34.673 [main] INFO  userDefinedLibraries.LoggerClass - Opening Url in Chrome Browser
+19:19:34.674 [main] INFO  userDefinedLibraries.LoggerClass - ==========================================
